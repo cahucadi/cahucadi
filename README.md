@@ -5,5 +5,5 @@ For my students of Competitive Programming, Data Structures and Software Enginee
 
 - 👀 I’m interested in Software engineering and Data Science and new tools and frameworks!
 
-- 🌱 I’m currently learning QA and DS
+- 🌱 I’m currently exploring Data Science and Software Quality
 - 📫 If need help with any topic of interest, contact me! cahucadi at gmail.com
